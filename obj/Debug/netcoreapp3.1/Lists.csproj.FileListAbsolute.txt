@@ -1,0 +1,12 @@
+/Users/codenationstudent/Documents/Lists/bin/Debug/netcoreapp3.1/Lists.deps.json
+/Users/codenationstudent/Documents/Lists/bin/Debug/netcoreapp3.1/Lists.runtimeconfig.json
+/Users/codenationstudent/Documents/Lists/bin/Debug/netcoreapp3.1/Lists.runtimeconfig.dev.json
+/Users/codenationstudent/Documents/Lists/bin/Debug/netcoreapp3.1/Lists.dll
+/Users/codenationstudent/Documents/Lists/bin/Debug/netcoreapp3.1/Lists.pdb
+/Users/codenationstudent/Documents/Lists/obj/Debug/netcoreapp3.1/Lists.csprojAssemblyReference.cache
+/Users/codenationstudent/Documents/Lists/obj/Debug/netcoreapp3.1/Lists.AssemblyInfoInputs.cache
+/Users/codenationstudent/Documents/Lists/obj/Debug/netcoreapp3.1/Lists.AssemblyInfo.cs
+/Users/codenationstudent/Documents/Lists/obj/Debug/netcoreapp3.1/Lists.csproj.CoreCompileInputs.cache
+/Users/codenationstudent/Documents/Lists/obj/Debug/netcoreapp3.1/Lists.dll
+/Users/codenationstudent/Documents/Lists/obj/Debug/netcoreapp3.1/Lists.pdb
+/Users/codenationstudent/Documents/Lists/obj/Debug/netcoreapp3.1/Lists.genruntimeconfig.cache
